@@ -1,0 +1,28 @@
+.title {
+  text-align: center;
+  font-size: 40pt;
+  font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+  text-style: bold;
+  margin: 50 50 0 50;
+}
+
+.photo-big {  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  margin-top: 20pt;
+  width: 50%;
+
+}
+
+#space {
+  margin-top: 40pt;
+}
+
+p {
+  text-align: center;
+  font-size: 9pt;
+  font-color: red;
+  margin: 1 1 1 1;
+}
